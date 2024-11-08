@@ -1,3 +1,4 @@
+
 # 0.5.66
 
 Bugfix for version comparisons to fix some other plugins having broken interactions with Dataview.
